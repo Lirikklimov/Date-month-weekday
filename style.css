@@ -27,7 +27,7 @@ body {
 .calendar #monthName {
     position: relative;
     padding: 5px 10px;
-    background: blue;
+    background: red;
     color: #fff;
     font-size: 30px;
     font-weight: 700;
